@@ -1,2 +1,4 @@
 # chai-backend
 Complete backend 
+
+[LINK FOR THE MODEL](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWptWUZTN0VXZmxIdWNReW9XQXBLU0tvUkJFUXxBQ3Jtc0trNERCMHhYX0dUWHB1QzU5eU9HanRaWTc1MThKLXctVGV4M0VvRmE1VEk5T016TTFEdm0yQUJqUHZSV3o3OEg3Zkx0UktkMVI2NXRfUUEtMlljaHhkWVBXT1F1QmFBYzRKckpaWmpMMUkwNUpNX3ZRYw&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
